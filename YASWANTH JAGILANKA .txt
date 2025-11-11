@@ -1,0 +1,92 @@
+YASWANTH JAGILANKA
+M: (716)-730-0751| Charlotte, NC 28262 | Yaswanth.jagilanka@tabnerglobal.com
+
+SUMMARY:
+	•	Seasoned AWS/Azure Certified Solutions Architect (10+ years) with a deep understanding of AI/ML model deployment, migrating large-scale on-premises environments to multi-cloud (AWS, Azure, GCP) with a focus on cost optimization, high availability, and enterprise-grade security.
+	•	DevSecOps Leader, orchestrating CI/CD pipelines using Terraform, Ansible, Jenkins, Helm, GitLab, and Artifactory, championing Infrastructure as Code to accelerate deployments, automate testing frameworks with AI capabilities, and reduce overhead.
+	•	Provisioned and optimized GPU-based compute clusters (NVIDIA, CUDA, cuDNN) for AI/ML pipelines and high-performance workloads, ensuring low latency, high throughput, and cost efficiency, and enabling scalable training and inference.
+	•	Hands-on experience in working with multiple LLMs (Claude/OpenAI) and agentic AI frameworks like LangChain, LangGraph, CrewAI, integrating multi-step reasoning, context engineering (MCP, vector databases, RAG), and Python-based orchestration. Extensive experience with browser agents, workflow agents with prompt engineering.
+	•	Maintaining and Establishing Security First Practices using tools like Qualys, Wiz, Rapid7, and automated security vulnerability detection and remediation using DAST/SAST/IAST scanning tools, ensuring Zero Vulnerability eco system and compliance for Finance and E-Commerce organizations at scale.
+	•	Managed entire enterprise-level DevSecOps teams (10–15 engineers), utilizing agile best practices to deliver complex projects on time and within budget, with a focus on AI-driven automation. Strategic stakeholder engagement with CTOs, CEOs, and business owners, translating organizational goals into actionable technical roadmaps and driving timely, impactful outcomes, particularly in the realm of AI and cloud engineering.
+	•	Expert in cloud-native architectures, deploying Kubernetes (EKS, Rancher, OpenShift) for high-traffic production in e-commerce and telecom, with experience in designing blue/green deployment strategies using AI capabilities.
+	•	Comprehensive security expertise, including Zero Trust, micro-segmentation, RBAC, data encryption (at rest and in transit), vulnerability scanning, and mTLS with service mesh, ensuring robust security for AI systems.
+	•	Extensive networking and environment reconstruction capabilities, employing WAF, SSL termination, OAuth/MFA, network proxies, and SLA management to uphold compliance and availability for AI/ML infrastructure.
+	•	DevSecOps Self-Service Platforms integrating greenfield development (Vue.js, Python, SQL/NoSQL) to automate end-to-end delivery from development to production, including automated build, scans, and deployment with vulnerability remediation capabilities.
+	•	Adept at enterprise observability, leveraging Datadog, New Relic, ELK, Grafana, and Python-based automation for real-time monitoring, proactive incident detection, and continuous improvement of AI/ML systems.
+
+EDUCATION
+	•	Bachelor of Technology - May 2016 	National Institute of Technology, Bhopal, India
+	•	Masters in Computer and Information Sciences - Dec 2023
+	•	University at Buffalo, SUNY, Buffalo
+
+TECHNICAL SKILLS
+	•	Programming: Python (Flask, FastAPI, Django, AI/ML), C++, JavaScript, Bash/Shell, Vue.js
+	•	DevOps-CI/CD: Git/GitHub/GitLab/Bitbucket, Jenkins, Docker, Kubernetes (EKS/AKS/Rancher/OpenShift), Helm, Terraform, Ansible, Nginx, Istio, Artifactory
+	•	Cloud Platforms: AWS, Azure, GCP (Compute, Storage, Lambda/Functions, Kubernetes, Monitoring, Security, DevOps Services)
+	•	Databases & AI Context Engineering: MongoDB, SQL, DynamoDB, Document DB, RedShift; PineCone, Chroma DB, OpenSearch, Pgvector.
+	•	Observability/Monitoring: Prometheus, Grafana, ELK, Loki, Splunk, Open Telemetry, New Relic, Datadog, Azure Monitor
+	•	AI/ML: TensorFlow, PyTorch, scikit-learn, LLMs (Claude/OpenAI/Gemini 2.5 Lite), Agentic AI frameworks (LangChain, LangGraph, CrewAI), LLM Workflows, RAG, Agentic RAG.
+	•	Scripting & Automation: Python, Bash, AWS CLI, Boto3
+	•	Project Management: JIRA, Confluence, ServiceNow
+
+PROFESSIONAL EXPERIENCE
+
+Discount Tire, Charlotte, NC
+AI ML DevSecOps Engineer
+Feb 2023 – Present
+	•	Architected highly available and scalable AWS cloud infrastructure, optimizing resource allocation and cost-efficiency for AI/ML workloads across all SDLC Environments.
+	•	Spearheaded the creation, management, and scaling of Kubernetes clusters across various environments, maintaining robust performance and availability. Leveraged Infrastructure as Code (IaC) principles with Terraform to efficiently initialize and manage clusters, enhancing agility and reproducibility. 
+	•	Orchestrated comprehensive CI/CD pipelines using Jenkins and Argo CD, enabling rapid and reliable software delivery with automated testing frameworks using AI capabilities and auto alerts. Implemented version control for code, data, and models using GitLab and Artifactory.
+	•	Deployment and Integration of Multiple in house and external MCP’s using MCP Gateway Obot.ai, used with a RAG Based end chatbot for Org Knowledge Mgmt. and Project Planning (deployed to production).
+	•	Developed a Python Module to write data to Postgres by reading from Kubernetes clusters and then create a dashboard from the same in Grafana to monitor the system closely using OpenAI GPT 4omini and Crew AI framework pushing alerts in real time for outages, deployed to production using Agentic RAG with Pinecone.
+	•	Integrated GPU compute environments to support AI workloads, configuring NVIDIA drivers, CUDA/cuDNN libraries, and Docker runtimes for ML and HPC workloads, improving performance for real-time inference. Configured high-speed networking with RDMA and tuned performance for low-latency GPU workloads, supporting HPC pipelines and distributed AI training.
+	•	Automated GPU cluster provisioning and scaling using Terraform and Ansible, ensuring high availability for compute-intensive workloads. Designed and Implemented hybrid AI infrastructure combining FaaS, Kubernetes, and Spark clusters for intelligent training/inference pipelines with low latency and high throughput.
+	•	Implemented Security practices such as Cluster Hardening at KubeAPI level by enforcing TLS and limited access, Node Hardening for every node provisioned using default configuration to ensure Zero Trust Architecture across all levels of the infrastructure. Designed Micro segmentation-based architecture to restrain vulnerable signatures of the infrastructure, with knowledge of security best practices for AI systems.
+	•	Automated security and compliance using Done for you Remediation checks invoking tools like kube-bench and Trivy, integrating image scanning and vulnerability detection into the CI/CD pipeline for proactive threat mitigation, and automated security vulnerability remediation using security scanning tools in DAST (Trivy)/SAST(Sonarqube)/IAST (In House) to raise PR to the repo in GitLab using OpenAI SDK and Gitlab Ultimate.
+	•	Managed Kubernetes Cluster Security Configuration using Infrastructure as Code (IaC) tools like Terraform and Helm, ensuring consistent and secure deployment practices. Integrated Service Meshes (e.g., Istio) to enable secure, encrypted communication between microservices and utilized Kubernetes Admission Controllers to enforce custom security policies during resource creation and update processes.
+	•	Integrated AI/ML models into CI/CD pipelines for promotional mix modeling with TensorFlow Extended (TFX), improving automated model validation, deployment efficiency by 30%, and ensuring high availability for real-time inference.
+	•	Developed a hybrid architecture using Faas, Kubernetes and Spark Cluster for designing an intelligent deployment system for training and inference of models in real-time with low latency and high throughput to ensure smooth user transition from traditional desk-based applications.
+
+Technologies: Python, Langchain, CrewAI, LangGraph, RAG, Pgvector, Pinecone, ChromaDB, Kubeflow Prometheus, Grafana, Bitbucket CI/CD, AWS, Kubernetes (EKS), OpenAI, LLM’s, Linux, Shell, Terraform, Ansible, Mongo, Azure Functions, AKS, Load Balancing, EMR, Spark Cluster, Ansible, Bitbucket, Falco, Dynatrace, HaProxy, certmanager etc.
+
+RADCOM, New Jersey
+Solutions Engineer (AI/CloudOps)
+Aug 2022 – Dec 2022
+	•	Working with Design and Implementation of Network Monitoring Applications in real time using vProbe and VerticaDB cluster for massive scale telecom systems with clients like AT&T, Dish etc. Implemented REST services using Golang with microservice-based architecture. 
+	•	Architected and Implemented LLM based impact discovery module using crew.ai and LangGraph enabling workflows to identify mishaps in configuration and logs to alerts monitoring dashboard/trigger pager duty, chat interface has also been provided, product has been automatically tested using Grid Search to validate test results using AUC and ROC curves.
+	•	Developed automation scripts and microservices using Java and Angular, enhancing application deployment, scaling, and maintenance. 
+	•	Implemented Ansible for configuration automation, ensuring infrastructure consistency and reliability and Implemented GitOps practices using Argo CD for Kubernetes, enabling declarative infrastructure management and continuous deployment, increasing deployment speed by 40%. Automated cluster management with Kubernetes Operators, enhancing self-healing and scalability of applications.
+
+Technologies: Python (Sklearn, xgboost, pydantic), Grid Search, OpenAI SDK, Crew AI, AWS Lambda, API Gateway, SNS, Redshift, S3 Triggers, Kubernetes (ECS), Linux, CloudWatch, Golang, Vault, Influx DB, MongoDB, Gitlab CI/CD, AWS
+
+Quantile Inc., New York, NY
+Software Developer (AI/CloudOps)
+Mar 2022 – Jul 2022
+	•	Achieved 75% reduction in time for the compression report generation, by implementing parallel serverless computation using AWS Lambda, parallel programming and optimizing the existing process flow in python. 80% reduction in cost has been delivered using serverless AWS Lambda and phase based decentralized process design to avoid non-critical data calculation and generation.
+	•	Utilized Helm charts for consistent and repeatable Kubernetes application deployments, simplifying complex release processes. Enhanced security and compliance using Kubernetes-native solutions such as Kyverno for policy enforcement during the deployment of financial compression algorithm models to AWS using data versioning with DVC and model versioning with Kubeflow.
+	•	Evaded manual intervention by implementing event driven data validation system using AWS SQS, S3 triggers, Lambda and Redshift in real time on data upload. Developed and migrated the entire full stack traditional on-prem system to microservice-based architecture for deployment in public cloud AWS. 
+	•	Faster code to production has been achieved by provisioning complete CI/CD using Gitlab. Reduced AWS costs by 1000 USD per month using architecture design for Microservices in AWS ECS and IaaS using AWS CloudFormation. Completely managed global domain deployment in Route53, along with security using services like vault, SSL termination etc.
+	•	Met and exceeded SLA’s by managing deployment, scalability and availability of hybrid (micro-service and traditional) applications over OpenShift Kubernetes distribution using infra-automation with ansible and GitOps for real time telecom systems.
+Technologies: Python (Sklearn, xgboost, pydantic) , AWS Lambda, API Gateway, SNS, Redshift, S3 Triggers, Kubernetes (ECS), Linux, CloudWatch, Golang, Vault, Influx DB, MongoDB, Gitlab CI/CD, AWS
+
+IQVIA, Kochi
+AI Software Engineer
+May 2019 – Jul 2021
+
+	•	Technical Lead for Promotional Mix Modelling: Lead a greenfield ML software project from development to production, implementing Mixed Linear Regression with slope/intercept for calculation of ROI/MROI on investment over Promotional channels and moved to production with CI/CD at enterprise scale. Project accomplished 75% reduction in delivery timelines with 60% reduction in cost utilizing AWS HPC. The full stack application is computationally intensive and is facilitated by a heterogeneous distributed serverless system involving AWS Lambda, EKS and EMR.
+	•	Developed an NLP system to detect and cross-reference PubMed research papers using BERT and Sentence Transformers for semantic vector generation. This system streamlined literature reviews by automatically linking related papers, reducing manual effort for researchers by 50% and increasing research efficiency by 40%. Deployed on AWS SageMaker for scalable training and inference, significantly enhancing research capabilities for pharmaceutical professionals.
+	•	Innovated Enterprise level architecture with Platform, Environment, Tenant based design and allowed to scale elastically for high compute workloads training over 10000 ML Models in real time at scale using AWS Serverless technologies and ensured zero error change management by involving Terraform in the process and GitOps framework.
+	•	Co-ordinated/Built team of 20+ from scratch including recruitment and training to deliver projects for Fortune 100 clients meeting SLAs as agreed for the application availability, monitoring and TAT’s.
+	•	Comprehensive data-driven decision-making tool was developed for C-level executives in the pharmaceutical industry to analyze sales data accurately using time series models and a hybrid modeling approach. The tool featured a user-friendly interface for executives to interact with models and understand sales factors, enabling informed decisions, resource optimization, and growth. The forecasting accuracy was enhanced, and a data-driven culture was promoted within the organization using models like ARIMA, FbProphet, SARIMAX etc.
+	•	Achieved faster release timelines using semantic and umbrella versioning for micro-services and infrastructure templates over multiple projects using bash scripts and go-lang configs in GitLab, Jenkins and AWS. Handled SDLC deliveries using multiple cluster stages of dev, UAT, PRD and enabled security with JWT, Secrets manager, vault, WAF, SSL handling 5000 hits on all api’s per day.
+Technologies: Vue JS, Python(Sk Lern, Xgboost, Pydantic, NLP, Pytorch, Tensorflow, C++, React JS, SQL, AWS Lambda, EKS, Prometheus, Grafana, ELK Stack, EKS, EMR etc.
+
+Vodafone Idea, Kochi,
+Software Engineer 1
+Aug 2016 – Apr 2019
+	•	Attained saving of 6-man hours per day by spearheading application development and deployment for network monitoring and maintenance with zero manual intervention and automated troubleshooting in real-time using python Django User mgmt., bash scripts on Linux.
+	•	Developed, Versioned and deployed slope intercept models for traffic prediction during off peak and on peak hours to estimate any service impact on the network for the users and equipped it with reiteration of training and inference to match it to the pattern of network usage and estimation.
+	•	Have performed O&M of core switches and new implementations to connect various blocks in network, and network databases with 20 million customers. OSI Model, TCP/IP, NAT, DHCP, HTTPS, VLAN etc.
+Technologies: Python, ML, SkLearn, HTML, CSS, Flask, Django, SQL, AWS EC2, S3, Computer Networking, OSI, TCP/IP.
+
+
